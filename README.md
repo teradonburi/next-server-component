@@ -30,4 +30,4 @@ Installing dependencies:
 - @types/react-dom
 - eslint
 - eslint-config-next
-``
+```
