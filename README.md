@@ -1,6 +1,7 @@
 # next-server-component
 build from create-next-app
 
+
 ```
 $ npx create-next-app@latest
 Need to install the following packages:
